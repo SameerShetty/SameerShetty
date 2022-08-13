@@ -5,7 +5,7 @@
 no amount of knowledge <img src="assets/Rocket.gif" height="20px"> is enough knowledge. 🧠</em>
  <br/>
 <br/><br/>
- <img align="right" src="assets/dev.gif" width="500px" height="300px"/>
+ <img align="right" src="assets/dev.gif" width="300px" height="150px"/>
   <br/> <br/>
   
   
