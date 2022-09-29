@@ -37,7 +37,7 @@ no amount of knowledge <img src="assets/Rocket.gif" height="20px"> is enough kno
 
 ## 🌱 I’m currently learning ...
 - **MERN STACK**
-- **php**
+- **Flutter**
 
 <br/>
   <br/>
