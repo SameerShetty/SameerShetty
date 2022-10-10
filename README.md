@@ -66,7 +66,10 @@ no amount of knowledge <img src="assets/Rocket.gif" height="20px"> is enough kno
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
-
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SameerShetty/count.svg" />
+</p>
 <br/>
 <p>
 
