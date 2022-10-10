@@ -32,9 +32,9 @@ no amount of knowledge <img src="assets/Rocket.gif" height="20px"> is enough kno
 
 <br/>
   <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShetty&layout=compact)](https://github.com/SameerShetty/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShetty&layout=compact)](https://github.com/SameerShetty/github-readme-stats)
 <br><br><br>
-![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerShetty&show_icons=true&theme=dark)
+ ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerShetty&show_icons=true&theme=dark)
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="assets/Handshake.gif" height="33px" /></h3> 
 </div>
