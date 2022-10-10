@@ -1,5 +1,5 @@
 <h1 align="center"> <img align="center" src="assets/hello.gif" width="150px"> I'm Sameer Shetty!</h1>
-<em>I am a 2nd Year undergraduate student from <a href="http://www.sit.ac.in/html/home.html"><b>  Siddaganga Institute of Technology, Tumkur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that 
+<em>I am a 3rd Year undergraduate student from <a href="http://www.sit.ac.in/html/home.html"><b>  Siddaganga Institute of Technology, Tumkur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset , and given me the curiosity to learn more. I firmly believe that 
 no amount of knowledge <img src="assets/Rocket.gif" height="20px"> is enough knowledge. 🧠</em>
  <br/>
 <br/><br/>
@@ -10,11 +10,12 @@ no amount of knowledge <img src="assets/Rocket.gif" height="20px"> is enough kno
 ## Ask me about :computer: 
 - **Programming**
 	- C++ ❤️
-	- C 
+	- C
+	- JS
 - **Web Development**
 	- HTML, CSS and Javascript 
 	- Bootstrap
-	- React.js
+	- MERN STACK
 - **Creativity**
 	- Photoshop 
 	- Illustration 
