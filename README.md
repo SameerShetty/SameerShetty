@@ -39,7 +39,12 @@ no amount of knowledge <img src="assets/Rocket.gif" height="20px"> is enough kno
           
     
     
-  
+  <img src="https://img.shields.io/github/followers/SameerShetty.svg?style=darkl&label=Follow">
+
+<p align="center">
+<img height=300 src="https://github-stats-alpha.vercel.app/api/?username=SameerShetty&cc=000&tc=fff&ic=fff&bc=000">
+<img width=750 src="https://github-profile-trophy.vercel.app/?username=SameerShetty&theme=darkhub">
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShetty&layout=compact)](https://github.com/SameerShetty/github-readme-stats)
 <br><br><br>
 ![Sameer's GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerShetty&show_icons=true&theme=dark)
